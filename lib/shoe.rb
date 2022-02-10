@@ -1,4 +1,4 @@
-# Make your shoe class here!
+# # Make your shoe class here!
 class Shoe
     attr_reader :brand
     attr_accessor :color, :size, :material, :condition
@@ -12,4 +12,3 @@ class Shoe
         @condition = "new"
     end
 end
-
